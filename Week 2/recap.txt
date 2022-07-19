@@ -1,0 +1,8 @@
+Topics reviewed:
+
+1. Linear Regression with Multiple Variables
+	  i. Multivariate Gradient Descent
+	 ii. Feature Scaling
+	iii. Polynomial Regression
+	 iv. Gradient Descent vs Normal Equation
+2. Octave Tutorial

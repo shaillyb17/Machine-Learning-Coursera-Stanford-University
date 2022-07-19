@@ -1,0 +1,8 @@
+Topics reviewed:
+
+1. Supervised Learning
+2. Unsupervised Learning
+3. Linear Regression with one variable
+	 i. Cost Function
+	ii. Parameter Learning (Gradient Descent)
+4. Linear Algebra Review
