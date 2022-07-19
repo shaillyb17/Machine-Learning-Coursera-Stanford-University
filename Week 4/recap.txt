@@ -1,0 +1,6 @@
+Topics Reviewed: 
+#1. Neural networks Motivations
+#2. Model Representations
+#3. Applications
+#4. Forward propagation and its vectorised implementation
+#5. Multiclass Classification

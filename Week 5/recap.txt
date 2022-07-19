@@ -1,0 +1,17 @@
+Topics Reviewed: 
+#1. Neural Networks Cost Function and Backpropogation
+#2. Backpropogation in Practice
+#3. Gradient Checking
+#4. Random Initialisation
+#5. Symmetry breaking
+#6. Applications of neural networks - Autonomous Driving
+
+Steps to train a neural network:
+1. Randomly initialise weights
+2. Implement forward propogation to get h(theta) x of ith layer for any x of ith layer.
+3. Implement code to compute cost function J(theta).
+4. Implement backpropogation to compute partial derivatives.
+5. Use gradient checking to compare the partial derivative of J(theta) computed using backpropogation vs numerical estimate of gradient of J(theta). Then disable gradient checking code (cuz slow).
+6. Use gradient descent or any other advanced optimisation method with backpropogation to try and minimise J(theta) as a function of parameter theta.
+
+Note - For neural networks, J(theta) is non-convex so it can get stuck in a local minima.

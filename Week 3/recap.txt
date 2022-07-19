@@ -1,0 +1,15 @@
+Topics Reviewed: 
+
+#1. Logistic Regression
+	  i. Classification
+	 ii. Hypotheses Representation
+	iii. Decision Boundary
+	 iv. Cost FUnction
+	  v. Gradient Descent
+	 vi. Advanced Optimisation
+	vii. Multiclass Classification
+#2. Regularisation
+	  i. The problem of Overfitting
+	 ii. Cost Function
+	iii. Regularised Linear Regression
+	 iv. Regularised Logistic Regression
